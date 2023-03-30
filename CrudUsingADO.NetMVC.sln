@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudUsingADO.NetMVC", "CrudUsingADO.NetMVC\CrudUsingADO.NetMVC.csproj", "{7F07C24D-E7AB-42F9-A7F9-CFA6D21DDDEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F07C24D-E7AB-42F9-A7F9-CFA6D21DDDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F07C24D-E7AB-42F9-A7F9-CFA6D21DDDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F07C24D-E7AB-42F9-A7F9-CFA6D21DDDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F07C24D-E7AB-42F9-A7F9-CFA6D21DDDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36768808-2A5B-4AAE-84F2-03B64E2E83AB}
+	EndGlobalSection
+EndGlobal
